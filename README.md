@@ -46,7 +46,7 @@ WanderLust is a full-stack web application that allows users to explore, book, a
 
 1. **Clone the repository**
    
-  **git clone**: [WanderLust](https://github.com/PL7822)  
+  **git clone**: [Pritam_Lendale](https://github.com/PL7822)  
 
 **2. Install dependencies**
 
@@ -70,6 +70,7 @@ http://localhost:3000/listings
 
 - **Hosted Application**: [WanderLust](https://wanderlust1-e0lv.onrender.com/listings)  
 - **GitHub Repository**: [WanderLust GitHub](https://github.com/resmit-dholariya/WanderLust)
+- **linkedin Profile**: [linkedin](https://www.linkedin.com/in/pritam-lendale-398172353?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
 
 **📄 License**
