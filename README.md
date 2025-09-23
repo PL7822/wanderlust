@@ -45,8 +45,8 @@ WanderLust is a full-stack web application that allows users to explore, book, a
 ## 🚀 Setup Instructions
 
 1. **Clone the repository**
-   ```bash
-   git clone <https://wanderlust1-e0lv.onrender.com/listings>
+   
+  **git clone**: [WanderLust](https://github.com/PL7822)  
 
 **2. Install dependencies**
 
@@ -66,9 +66,11 @@ http://localhost:3000/listings
 
 🔗 Links
 
-Hosted Application: WanderLust
+## 🔗 Links
 
-GitHub Repository: WanderLust GitHub
+- **Hosted Application**: [WanderLust](https://wanderlust1-e0lv.onrender.com/listings)  
+- **GitHub Repository**: [WanderLust GitHub](https://github.com/resmit-dholariya/WanderLust)
+
 
 **📄 License**
 
